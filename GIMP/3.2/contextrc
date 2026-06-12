@@ -1,0 +1,18 @@
+# GIMP user context
+
+(tool "gimp-paintbrush-tool")
+(paint-info "gimp-paintbrush")
+(foreground
+    (color "R'G'B'A u8" 4 "\264\275\376\377" 0))
+(background
+    (color "R'G'B'A float" 16 "\1\0\200\77\1\0\200\77\1\0\200\77\0\0\200\77" 0))
+(brush "2. Hardness 100")
+(dynamics "Pressure Size")
+(mybrush "100% Opaque")
+(pattern "Fibers")
+(gradient "FG to BG (Hard Edge)")
+(palette "Colour History")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

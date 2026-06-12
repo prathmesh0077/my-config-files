@@ -1,0 +1,4 @@
+[general]
+import = [
+    "/home/prathmesh/.config/alacritty/themes/noctalia.toml"
+]

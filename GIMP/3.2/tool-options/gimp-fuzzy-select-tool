@@ -1,0 +1,8 @@
+# GIMP gimp-fuzzy-select-tool options
+
+(feather yes)
+(feather-radius 0)
+(diagonal-neighbors yes)
+(threshold 23.800000000000001)
+
+# end of gimp-fuzzy-select-tool options

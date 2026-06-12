@@ -1,0 +1,10 @@
+# settings
+
+(GimpGegl-gegl-waterpixels-config "2026-06-07 17:31:17"
+    (time 1780833677)
+    (size 32)
+    (smoothness 1)
+    (regularization 0)
+    (fill average))
+
+# end of settings
